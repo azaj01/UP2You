@@ -117,10 +117,10 @@ We thank [Siyuan Yu](https://ysysimon.com/home) for the help in Houdini Simulati
 If you find our work useful, please cite:
 
 ```bibtex
-@article{cai2025up2you,
-  title={UP2You: Fast Reconstruction of Yourself from Unconstrained Photo Collections},
+@inproceedings{cai2025up2you,
+  title={{UP2You: Fast Reconstruction of Yourself from Unconstrained Photo Collections}},
   author={Cai, Zeyu and Li, Ziyang and Li, Xiaoben and Li, Boqian and Wang, Zeyu and Zhang, Zhenyu and Xiu, Yuliang},
-  journal={arXiv preprint arXiv:2509.24817},
-  year={2025}
+  booktitle={{International Conference on Learning Representations (ICLR)}},
+  year={2026}
 }
 ```
